@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Anatomy and Physiology"
+    ],
+    [
+      "Health and Medicine",
+      "Sensory-Neural Systems"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biophysics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "3c74c4bd-c600-b6db-d1bc-af5be5b383f9",
+  "instructors": {
+    "content": [
+      "821348e6-a5e2-db1d-d72f-fa21d797e63a",
+      "0d5443be-8f16-c285-7988-588dfdeb1a76"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4608fd07-6688-d5e3-4753-f1c776f9fff7",
+    "website": "hst-721-the-peripheral-auditory-system-fall-2005"
+  },
+  "course_title": "The Peripheral Auditory System",
+  "course_description": "In this course, experimental approaches to the study of hearing and deafness are presented through lectures, laboratory exercises and discussions of the primary literature on the auditory periphery. Topics include inner-ear development, functional anatomy of the inner ear, cochlear mechanics and micromechanics, mechano-electric transduction by hair cells, outer hair cells' electromotility and the cochlear amplifier, otoacoustic emissions, synaptic transmission, stimulus coding in auditory nerve responses, efferent control of cochlear function, damage and repair of hair-cell organs, and sensorineural hearing loss.\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.721",
+  "course_image_thumbnail": {
+    "content": "85d88261-0b99-c967-d9ed-84c26a4cff1c",
+    "website": "hst-721-the-peripheral-auditory-system-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "ddde3032-d6a3-4187-88ac-93c3fc00d82c",
+  "site_short_id": "hst.721-fall-2005",
+  "title": "Course Metadata"
+}
